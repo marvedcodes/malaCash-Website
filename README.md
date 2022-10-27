@@ -7,6 +7,7 @@ malaCash (Landing Page)
 
 ## Project Description  
 
-This project is a a landing page for malaCash. This project showcases the use of  
-slider and tab components with JavaScript, event propagation(bubbling), event delegation,  
-use of Intersection Observer API on lazy loading and scrolling.
+This project is a landing page for malaCash. It's fully responsive website to phone, tablet   
+and desktop sizes. It showcases the use of slider and tab components with JavaScript,  
+event propagation(bubbling), event delegation, use of Intersection Observer API on   
+lazy loading and scrolling.
