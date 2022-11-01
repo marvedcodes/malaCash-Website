@@ -12,4 +12,4 @@ and desktop sizes. It showcases the use of slider and tab components with JavaSc
 event propagation(bubbling), event delegation, use of Intersection Observer API on   
 lazy loading and scrolling.
 
-## Make sure you know that This project is based on Jonas Schmedtmann's Bankist project with modifications.
+## Make sure you know that this project is based on Jonas Schmedtmann's Bankist project with modifications.
